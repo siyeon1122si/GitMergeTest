@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MargeTest", "MargeTest.csproj", "{AC633CF5-225D-4508-922E-ED4A2AB60160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC633CF5-225D-4508-922E-ED4A2AB60160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC633CF5-225D-4508-922E-ED4A2AB60160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC633CF5-225D-4508-922E-ED4A2AB60160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC633CF5-225D-4508-922E-ED4A2AB60160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80CEB39-3DA1-451C-A481-AA17E5F2C4AD}
+	EndGlobalSection
+EndGlobal
