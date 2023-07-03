@@ -11,7 +11,17 @@ namespace MargeTest
     {
         static void Main(string[] args)
         {
+            // {    2023. 07. 03. Add user input / beta
+            string userInput = string.Empty;
+            Console.WriteLine(" This program covert Cm to Inch ");
+            Console.WriteLine(" Input Cm Value : ");
+            userInput = Console.ReadLine();
+
+            int cmInput = 0;
+            int.TryParse(userInput, out cmInput);
+
             Ruler ruler = new Ruler(10);
+            // }    2023. 07. 03. Add user input / beta
             ruler.Run();
         }
     }
